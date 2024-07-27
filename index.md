@@ -14,7 +14,8 @@ I am a member of [NEST](https://github.com/nest/nest-simulator){:target="_blank"
 </a> and my current project is about accelerating simulations of spiking nets with realistic synaptic density on alternative hardware, more specifically [Graphcore's IPU](https://www.graphcore.ai/), 
 by designing algorithms that can exploit distributed memory and massive parallelism. My hope is to publish the code alongside the future paper, so stay tuned!
 
-Beyond work I am partial to mountains, climbing them, books (I had a goodreads once but got too lazy), travel, languages, politics and games. Big music enthusiast and amateur vinyl collector. Reckon there's a STEM stereotype hidden in there somewhere.
+Beyond work I am partial to mountains, climbing them, books (I had a goodreads once but got too lazy), travel, languages, politics and games. Big music enthusiast and amateur vinyl collector. 
+Reckon there's a STEM stereotype hidden in there somewhere. Did I mention that I love bubble tea?
 
 
 ## This is where I advertise projects
