@@ -2,122 +2,25 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# About Me!
+Hi! My name's Cath, although you may find me using `otcathatsya` online sometimes, which is a
+barely disguised embedding of my name in a word from the book series & show [Shadow and Bone](https://thegrishaverse.fandom.com/wiki/Otkazat%27sya).
 
 
-### Definition lists can be used with HTML syntax.
+I am a comp sci PhD student at Jülich Research Center, Germany, studying somewhere between the lines of machine learning and comp. neuroscience.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+I am a member of [NEST](https://github.com/nest/nest-simulator){:target="_blank"} <a href="https://github.com/nest/nest-simulator" target="_blank" style="display: inline-block; vertical-align: middle;">
+<img src="{{ '/assets/images/nest.png' | relative_url }}" alt="Logo" style="height: 1em; vertical-align: middle; border-radius: 5%; margin-bottom: 0.25em; border: none;">
+</a> and my current project is about accelerating simulations of spiking nets with realistic synaptic density on alternative hardware, more specifically [Graphcore's IPU](https://www.graphcore.ai/), 
+by designing algorithms that can exploit distributed memory and massive parallelism. My hope is to publish the code alongside the future paper, so stay tuned!
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Beyond work I am partial to mountains, climbing them, books (I had a goodreads once but got too lazy), travel, languages, politics and games. Big music enthusiast and amateur vinyl collector. Reckon there's a STEM stereotype hidden in there somewhere.
 
-```
-The final element.
-```
+
+## This is where I advertise projects
+In no particular order:
+
+- [**Simple Tabs**](https://github.com/otcathatsya/simple-tabs) As an occassional MC dev I can't get around advertising the one mod I actually bothered getting into a semi-polished state.
+It adds chat tabs to filter incoming messages!
+- [**NEST Simulator**](https://github.com/nest/nest-simulator) The de-facto standard for large-scale spiking neural network simulations. Very well maintained, glad to be a small part of its development!
+- [**Remote Camera**](https://github.com/otcathatsya/uclan-remotecamera) Something I wrote back for my BSc, this is a very messy but functional app that lets you stream the camera feed of one Android device to the other and send-back captured images based on WiFi-Direct.
