@@ -8,7 +8,8 @@ Hi! My name's Cath, although you may find me using `otcathatsya` online sometime
 barely disguised embedding of my name in a word from the book series &
 show [Shadow and Bone](https://thegrishaverse.fandom.com/wiki/Otkazat%27sya).
 
-I am a comp sci PhD candidate at Jülich Research Center, Germany, studying somewhere along the intersection of machine learning
+I am a comp sci PhD candidate at Jülich Research Center, Germany, studying somewhere along the intersection of machine
+learning
 and comp. neuroscience. Originally from Austria and previously studied in the UK!
 
 I am a member of [NEST](https://github.com/nest/nest-simulator){:target="_
@@ -23,18 +24,7 @@ Beyond work I am partial to mountains, climbing them, books (I had a goodreads o
 languages, politics and games. Big music enthusiast and amateur vinyl collector.
 Reckon there's a STEM stereotype hidden in there somewhere. Did I mention that I love bubble tea?
 
-<div style="display: flex; justify-content: center; align-items: center">
-  <a href="mailto:kittenascension@gmail.com" target="_blank">
-    <img src="assets/images/logos/email.svg" alt="Email" width="30em" height="auto" style="border: none; box-shadow: none; vertical-align: middle;">
-  </a>
-  <span style="font-style: italic; display: flex; align-items: center;">
-    &ensp;or&ensp;
-    <img src="assets/images/logos/discord.svg" class="discordIcon" alt="Discord" width="30em" height="auto" style="border: none; box-shadow: none; vertical-align: middle;">
-    &ensp;@ cathmia
-  </span>
-</div>
 ## This is where I advertise projects
-
 
 In no particular order:
 
@@ -46,3 +36,22 @@ In no particular order:
 - [**Remote Camera**](https://github.com/otcathatsya/uclan-remotecamera) Something I wrote back for my BSc, this is a
   very messy but functional app that lets you stream the camera feed of one Android device to the other and send-back
   captured images based on WiFi-Direct.
+
+### Contact
+
+<div style="display: flex; justify-content: center; align-items: center">
+  <a href="mailto:contact@cath.at" target="_blank">
+    <img src="assets/images/logos/email.svg" alt="Email" width="30em" height="auto" style="border: none; box-shadow: none; vertical-align: middle;">
+    Email me  
+  </a>
+&ensp;
+  <a href="https://www.linkedin.com/in/cath-mia/" target="_blank">
+    <img src="assets/images/logos/linkedin.svg" alt="LinkedIn" width="30em" height="auto" style="border: none; box-shadow: none; vertical-align: middle;">
+    LinkedIn  
+  </a>
+&ensp;
+  <a href="https://scholar.google.com/citations?user=hItL3wwAAAAJ" target="_blank">
+    <img src="assets/images/logos/scholar.svg" alt="Scholar" width="30em" height="auto" style="border: none; box-shadow: none; vertical-align: middle;">
+    Google Scholar
+  </a>
+</div>
