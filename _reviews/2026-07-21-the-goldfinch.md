@@ -3,7 +3,7 @@ title: "The Goldfinch"
 book_author: "Donna Tartt"
 date: 2026-07-21
 summary: "I love it and pretend that this Pulitzer Prize winning book is underappreciated."
-description: "A personal review and defence of Donna Tartt's The Goldfinch, on its length, grief, friendship, and art."
+description: "A very partisan review of Donna Tartt's The Goldfinch and the beauty within."
 ---
 
 # In Defence of The Goldfinch
