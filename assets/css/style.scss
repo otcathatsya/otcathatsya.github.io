@@ -2,3 +2,103 @@
 ---
 
 @import 'jekyll-theme-merlot';
+
+header .site-home,
+header .site-home:hover {
+  color: inherit;
+  display: block;
+  text-decoration: none;
+}
+
+/* A quiet, paper-like treatment for the Markdown review collection. */
+.review {
+  max-width: 31em;
+  margin: 0 auto;
+}
+
+.review-back {
+  font-family: 'Open Sans', sans-serif;
+  font-size: .55em;
+  margin: .4em 0 2.4em;
+}
+
+.review-heading {
+  border-top: 3px double #d3ccc1;
+  border-bottom: 3px double #d3ccc1;
+  margin: 0 0 1.4em;
+  padding: 1em 0 .9em;
+  text-align: center;
+}
+
+.review-heading h1 {
+  color: #7c334f;
+  font-size: 1.65em;
+  line-height: 1.15;
+  margin: .12em 0;
+}
+
+.review-kicker,
+.review-meta,
+.review-author {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+.review-kicker {
+  color: #8b786f;
+  font-size: .45em;
+  font-weight: bold;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.review-author {
+  font-size: .72em;
+  font-style: italic;
+}
+
+.review-meta {
+  color: #8b786f;
+  font-size: .48em;
+  margin-top: .55em;
+}
+
+.review-meta span {
+  margin: 0 .45em;
+}
+
+.review-body > :first-child {
+  margin-top: 0;
+}
+
+.review-list {
+  border-top: 3px double #d3ccc1;
+  margin-top: 1em;
+}
+
+.review-list-item {
+  border-bottom: 1px solid #d3ccc1;
+  padding: .9em 0 1em;
+}
+
+.review-list-item h2 {
+  font-size: 1.08em;
+  line-height: 1.2;
+  margin: 0;
+}
+
+.review-list-item p {
+  font-size: .72em;
+  line-height: 1.45;
+  margin-top: .35em;
+}
+
+.review-list-date,
+.review-list-author {
+  color: #8b786f;
+  font-family: 'Open Sans', sans-serif;
+  font-size: .45em !important;
+  font-weight: bold;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+}

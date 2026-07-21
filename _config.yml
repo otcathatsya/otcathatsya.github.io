@@ -3,3 +3,21 @@ description: Catherine Mia Schöfmann
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-merlot
+url: "https://cath.at"
+author: Catherine Mia Schofmann
+lang: en
+
+plugins:
+  - jekyll-sitemap
+
+collections:
+  reviews:
+    output: true
+    permalink: /books/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: reviews
+    values:
+      layout: review

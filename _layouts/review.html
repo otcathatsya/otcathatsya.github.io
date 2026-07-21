@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<article class="review">
+  <p class="review-back"><a href="{{ '/books/' | relative_url }}">&larr; All book notes</a></p>
+
+  <div class="review-heading">
+    <p class="review-kicker">Book note</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.book_author %}<p class="review-author">by {{ page.book_author }}</p>{% endif %}
+    <p class="review-meta">
+      {% if page.date %}<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y" }}</time>{% endif %}
+      {% if page.rating %}<span aria-hidden="true">&middot;</span> {{ page.rating }}{% endif %}
+    </p>
+  </div>
+
+  <div class="review-body">
+    {{ content }}
+  </div>
+</article>
