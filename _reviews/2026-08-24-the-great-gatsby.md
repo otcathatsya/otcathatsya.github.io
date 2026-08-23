@@ -6,7 +6,7 @@ summary: "Mini character analysis of what makes Mr. Gatsby so fascinating."
 description: "Why do we all love Gatsby?"
 ---
 
-# In Defence of The Goldfinch
+# Gatsby-esque
 
 The social critique in The Great Gatsby is ever-relevant. The rich eat those who don't belong and while outside actors (Myrtle, Gatsby) can wield wealth for their own devices, those accustomed to it will always find distinguishing marks. But the great joy in analysing this book stems from the fact that there are so many angles to take, and so I'd instead like to think about what makes Gatsby himself so fascinating and likeable.
 
