@@ -6,6 +6,7 @@ theme: jekyll-theme-merlot
 url: "https://cath.at"
 author: Catherine Mia Schofmann
 lang: en
+future: true
 
 plugins:
   - jekyll-sitemap
